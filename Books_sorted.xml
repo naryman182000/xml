@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog>
+    <Book id="1">
+        <Author>norhan</Author>
+        <Title>computer</Title>
+        <Genre>computer science</Genre>
+        <price>120.5</price>
+        <Publish_Date>30-12-2022</Publish_Date>
+        <Description>very important book for aur life</Description>
+    </Book>
+    <Book id="2">
+        <Author>khalid</Author>
+        <Title>python</Title>
+        <Genre>1</Genre>
+        <price>124.0</price>
+        <Publish_Date>12/12/1258/</Publish_Date>
+        <Description>bbb</Description>
+    </Book>
+    <Book id="4">
+        <Author>ahmed</Author>
+        <Title>computer</Title>
+        <Genre>computer science</Genre>
+        <price>120.6</price>
+        <Publish_Date>2000-12-02</Publish_Date>
+        <Description/>
+    </Book>
+    <Book id="5">
+        <Author>nour</Author>
+        <Title>bbb</Title>
+        <Genre>science</Genre>
+        <price>1785</price>
+        <Publish_Date>15/5/2022</Publish_Date>
+        <Description>kk</Description>
+    </Book>
+    <Book id="8">
+        <Author>aslam</Author>
+        <Title>information</Title>
+        <Genre>ap</Genre>
+        <price>130.0 </price>
+        <Publish_Date>15-11-2000</Publish_Date>
+        <Description/>
+    </Book>
+    <Book id="10">
+        <Author>mahmoud</Author>
+        <Title>fraction</Title>
+        <Genre>fraction</Genre>
+        <price>100.0 </price>
+        <Publish_Date>13-01-1999</Publish_Date>
+        <Description>it a useful book</Description>
+    </Book>
+    <Book id="13">
+        <Author>amgad</Author>
+        <Title>science</Title>
+        <Genre/>
+        <price>140.125 </price>
+        <Publish_Date>12-10-2001</Publish_Date>
+        <Description/>
+    </Book>
+    <Book id="14">
+        <Author>ahmed</Author>
+        <Title>computer science</Title>
+        <Genre>science</Genre>
+        <price>300.0 </price>
+        <Publish_Date>12-04-2000</Publish_Date>
+        <Description/>
+    </Book>
+</catalog>
